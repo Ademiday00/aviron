@@ -361,7 +361,7 @@ const Home = () => {
           </div>
 
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} Aviron. All rights reserved.
+            © 2026 Aviron. All rights reserved.
           </p>
         </div>
       </footer>
