@@ -24,13 +24,13 @@ const Home = () => {
 
             <h1 className="max-w-3xl text-3xl font-semibold leading-tight tracking-tight sm:text-5xl lg:text-7xl">
               Advancing Healthcare Through
-              <span className="text-blue-400">Intelligent Research</span>
+              <span className="text-blue-400"> Research</span>
             </h1>
 
             <p className="mt-7 max-w-xl text-base leading-8 text-gray-400 sm:text-lg">
-              At Aviron, we explore the possibilities of artificial
-              intelligence, machine learning, and scientific research to address
-              healthcare challenges and advance healthcare innovation.
+              At Aviron, we discover the potential of artificial intelligence,
+              machine learning, and scientific research to address healthcare
+              challenges and advance healthcare findings.
             </p>
 
             <div className="mt-10 flex flex-wrap gap-4">
@@ -100,20 +100,20 @@ const Home = () => {
               About Aviron
             </p>
             <h2 className="mt-5 text-3xl font-semibold leading-tight sm:text-5xl">
-              Researching today for the healthcare possibilities of tomorrow
+              Researching today for the healthcare products of tomorrow
             </h2>
           </div>
 
           <div className="flex flex-col justify-center">
             <p className="leading-8 text-gray-400">
               Aviron focuses on healthcare research, artificial intelligence,
-              and technology-driven innovation. We explore how machine learning,
-              deep learning, and data analysis can be applied to real-world
+              and technology solutions. We explore how machine learning, deep
+              learning, and data analysis can be applied to real-world
               healthcare problems.
             </p>
 
             <p className="mt-5 leading-8 text-gray-400">
-              We believe meaningful innovation begins with understanding the
+              We believe meaningful new ideas begins with understanding the
               problem, conducting responsible research, and carefully evaluating
               possible solutions.
             </p>
@@ -128,18 +128,17 @@ const Home = () => {
         </div>
       </section>
 
-      {/* FOCUS AREAS */}
-      <section className="bg-[#080808] px-5 py-24 sm:px-10 lg:px-20">
+      <section className="bg-[#07021f] px-5 py-24 sm:px-10 lg:px-20">
         <div className="mx-auto max-w-7xl">
           <div className="max-w-2xl">
             <p className="text-sm uppercase tracking-[0.3em] text-blue-400">
               What We Do
             </p>
             <h2 className="mt-5 text-3xl font-semibold sm:text-5xl">
-              Where healthcare meets intelligent technology
+              Where healthcare meets technology
             </h2>
             <p className="mt-5 leading-7 text-gray-400">
-              We bring research and AI methods together to explore new
+              We bring research and AI methods together to discover new
               approaches to healthcare challenges.
             </p>
           </div>

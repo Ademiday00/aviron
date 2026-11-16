@@ -29,10 +29,10 @@ export default function ServicesPage() {
           </h1>
 
           <p className="mt-8 max-w-2xl text-base leading-8 text-gray-400 sm:text-lg">
-            We explore healthcare challenges through scientific research,
-            artificial intelligence, and innovative approaches to technology.
-            Our goal is to turn meaningful research questions into practical
-            ideas and solutions.
+            We look around healthcare challenges through scientific research,
+            artificial intelligence, and finding better approaches to
+            technology. Our goal is to turn meaningful research questions into
+            practical ideas and solutions.
           </p>
         </div>
       </section>
@@ -71,9 +71,9 @@ export default function ServicesPage() {
               <h3 className="mt-6 text-xl font-semibold">Machine Learning</h3>
 
               <p className="mt-4 leading-8 text-gray-400">
-                Exploring machine learning methods to identify patterns in data,
-                investigate research questions, and develop predictive models
-                for suitable research applications.
+                Finding out machine learning methods to identify patterns in
+                data, investigate research questions, and develop predictive
+                models for suitable research applications.
               </p>
             </div>
 
@@ -86,9 +86,9 @@ export default function ServicesPage() {
               </h3>
 
               <p className="mt-4 leading-8 text-gray-400">
-                Research into neural networks and deep learning approaches for
-                complex data, including clinical text and medical images, where
-                suitable datasets are available.
+                Research into neural networks and deep learning ways for complex
+                data, including clinical text and medical images, where suitable
+                datasets are available.
               </p>
             </div>
 

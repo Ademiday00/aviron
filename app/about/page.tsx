@@ -25,7 +25,7 @@ export default function AboutPage() {
 
           <p className="mt-8 max-w-2xl text-base leading-8 text-gray-400 sm:text-lg">
             Aviron focuses on healthcare research, artificial intelligence, and
-            healthcare innovation. We explore how scientific research and
+            healthcare ideas. We discover how scientific research and
             intelligent systems can contribute to better healthcare solutions.
           </p>
         </div>
@@ -54,10 +54,11 @@ export default function AboutPage() {
             </h2>
 
             <p className="mt-6 leading-8 text-gray-400">
-              Aviron is a healthcare research and innovation initiative
-              exploring the use of artificial intelligence to address healthcare
-              challenges. Our work includes machine learning, deep learning, and
-              research into intelligent systems that can support healthcare
+              Aviron is a healthcare research and creating ideas that may
+              support healthcare professionals and institutions. We explore2 the
+              use of artificial intelligence to address healthcare challenges.
+              Our work includes machine learning, deep learning, and research
+              into intelligent systems that can support healthcare
               professionals.
             </p>
 

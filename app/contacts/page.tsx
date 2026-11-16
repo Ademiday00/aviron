@@ -24,7 +24,7 @@ export default function ContactPage() {
           </p>
 
           <h1 className="max-w-4xl text-4xl font-semibold leading-tight sm:text-6xl lg:text-7xl">
-            Lets explore what we can{" "}
+            Lets discover what we can{" "}
             <span className="text-red-400">build together</span>
           </h1>
 
@@ -141,7 +141,7 @@ export default function ContactPage() {
           </h2>
 
           <p className="mx-auto mt-6 max-w-xl leading-8 text-gray-400">
-            Tell us what you are researching, the challenge you are exploring,
+            Tell us what you are researching, the challenge you are discovering,
             or how you would like to work with Aviron.
           </p>
 

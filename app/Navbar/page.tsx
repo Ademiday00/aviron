@@ -35,6 +35,9 @@ const Navbar = () => {
           <Link href="/contacts" className="transition hover:text-gray-400">
             Contact
           </Link>
+          <Link href="/projects" className="transition hover:text-gray-400">
+            Projects
+          </Link>
         </div>
 
         {/* Mobile menu button */}
@@ -62,6 +65,9 @@ const Navbar = () => {
           </Link>
           <Link href="/contacts" onClick={() => setMenuOpen(false)}>
             Contact
+          </Link>
+          <Link href="/projects" onClick={() => setMenuOpen(false)}>
+            Projects
           </Link>
         </div>
       )}
