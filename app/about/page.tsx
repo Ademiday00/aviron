@@ -174,7 +174,7 @@ export default function AboutPage() {
 
       {/* Footer */}
       <footer className="border-t border-white/10 px-6 py-8 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} Aviron. All rights reserved.
+        © 2026 Aviron. All rights reserved.
       </footer>
     </main>
   );
